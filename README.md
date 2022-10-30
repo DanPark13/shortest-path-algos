@@ -1,2 +1,2 @@
 # shortest-path-algos
-Implementation of Graph Shortest Path Algorithms
+Implementation of the Breadth-First-Search Algorithm and Calculating Time Complexities
